@@ -1,0 +1,19 @@
+  body {
+    margin: 0;
+    background-color: #ffd8d8;
+}
+
+  .card {
+    border: 5px solid #ffffff;
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+    height: max-content;
+  }
+
+
+  .input-group {
+     width: 500px;
+    
+    right: -33%; 
+ 
